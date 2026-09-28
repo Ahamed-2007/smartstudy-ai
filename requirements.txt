@@ -1,0 +1,6 @@
+streamlit>=1.40
+openai>=1.60
+scikit-learn>=1.5
+nltk>=3.9
+pypdf>=5.0
+python-docx>=1.1
